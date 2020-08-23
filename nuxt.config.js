@@ -59,7 +59,7 @@
 //   build: {},
 // }
 module.exports = {
-  mode: 'spa',
+  mode: 'static',
   router: {
      base: '/nuxt-gh-pages/'
    },
