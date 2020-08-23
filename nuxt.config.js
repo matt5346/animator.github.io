@@ -59,6 +59,10 @@
 //   build: {},
 // }
 module.exports = {
+  mode: 'spa',
+  router: {
+     base: '/nuxt-gh-pages/'
+   },
   head: {
     title: process.env.npm_package_name || 'Animator',
     meta: [
