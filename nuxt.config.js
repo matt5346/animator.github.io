@@ -61,7 +61,7 @@
 module.exports = {
   mode: 'static',
   router: {
-     base: '/nuxt-gh-pages/'
+     base: '/animator.github.io/'
    },
   head: {
     title: process.env.npm_package_name || 'Animator',
