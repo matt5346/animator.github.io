@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # animator
 
 ## Build Setup
@@ -18,3 +19,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# animator.github.io
+>>>>>>> 09f9e001c89a92b31d3fda9a5f906a400ea01ff2
